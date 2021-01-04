@@ -6,6 +6,8 @@ Refactor Module 2 Solution Code to run more effeciently
 ### Purpose
 The purpose of this challenge was to update the Module 2 Solution Code using additional arrays to allow the macro to run faster.
 
+
+
 ## Results
 
 ### Stock Comparison Between 2017 and 2018
@@ -95,6 +97,8 @@ Additional arrays were used to calculate the Total Volume, Starting Prices, and 
 (B)
 ![Refactored Macro Time 2017](Resources/VBA_Challenge_2017.png)
 
+
+
 #### **The Following Screenshots Provide 2018 All Stock Analysis Macro Execution Comparison Between (C)The Original Module 2 Solution Code and (D)The Challenge Refactored Code**                                            
 (C)
 
@@ -102,6 +106,8 @@ Additional arrays were used to calculate the Total Volume, Starting Prices, and 
 
 (D)
 ![Refactored Macro Time 2018](Resources/VBA_Challenge_2018.png)
+
+
 
 
 
