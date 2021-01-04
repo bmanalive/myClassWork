@@ -56,7 +56,7 @@ Additional arrays were used to calculate the Total Volume, Starting Prices, and 
                 End If
 ```
 
-#### Original Module 2 Solution Code Example:
+#### Challenge Refactored Code Example:
 ```
 '2a) Create a for loop to initialize the tickerVolumes to zero.
     
@@ -84,6 +84,25 @@ Additional arrays were used to calculate the Total Volume, Starting Prices, and 
         End If
         
 ```
+
+Below are screenshots comparing macro execution times between (A) Orignial Module 2 Solution Code and (B) Challenge Refactored Code for both 2017 and 2018.
+
+#### 2017 All Stock Analysis Macro Execution Comparison Between (A)The Original Module 2 Solution Code and (B)The Challenge Refactored Code                                            
+(A)
+![Original Macro Time 2017](Resources/Module_2.5.3_2017_Time_Output.png)
+
+(B)
+![Refactored Macro Time 2017](Resources/VBA_Challenge_2017.png)
+
+#### 2018 All Stock Analysis Macro Execution Comparison Between (C)The Original Module 2 Solution Code and (D)The Challenge Refactored Code                                            
+(C)
+
+![Original Macro Time 2018](Resources/Module_2.5.3_2018_Time_Output.png)
+
+(D)
+![Refactored Macro Time 2018](Resources/VBA_Challenge_2018.png)
+
+
 
 ## Summary  
 Summary: In a summary statement, address the following questions.
